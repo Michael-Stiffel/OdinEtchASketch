@@ -1,0 +1,30 @@
+
+
+h1 {
+
+    text-align: center;
+
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+
+}
+
+.colum{
+    width: 40px;
+    height: 40px;
+    border: lightgrey solid 1px;
+}
+
+#Spielfläche{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 660px;
+    height: 660px;
+    margin: auto;
+}
